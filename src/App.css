@@ -1,0 +1,18 @@
+.App {
+  padding: 50px;
+}
+.input{
+  padding: 15px;
+  margin:10px;
+  background-color: white;
+  color: black;
+  font-weight: 600;
+}
+.form{
+  text-align: center;
+  background-color: #4dff4d;
+  width:500px;
+  border-radius: 50px;
+  padding:20px 10px;
+}
+
